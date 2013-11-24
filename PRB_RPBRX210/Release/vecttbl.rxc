@@ -1,0 +1,5 @@
+-cpu=rx200
+-lang=c
+-output=obj="D:\DESARROLLOS\PRB_RPBRX210\PRB_RPBRX210\Release\vecttbl.obj"
+"D:\DESARROLLOS\PRB_RPBRX210\PRB_RPBRX210\vecttbl.c"
+-nologo

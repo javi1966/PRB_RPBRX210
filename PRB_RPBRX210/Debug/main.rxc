@@ -1,0 +1,6 @@
+-cpu=rx200
+-lang=c
+-output=obj="D:\DESARROLLOS\PRB_RPBRX210\PRB_RPBRX210\Debug\main.obj"
+-debug
+"D:\DESARROLLOS\PRB_RPBRX210\PRB_RPBRX210\main.c"
+-nologo

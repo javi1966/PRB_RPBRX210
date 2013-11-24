@@ -1,0 +1,3 @@
+-cpu=rx200
+-output="D:\DESARROLLOS\PRB_RPBRX210\PRB_RPBRX210\Debug\PRB_RPBRX210.lib"
+-head=runtime,stdio,stdlib,string,new
